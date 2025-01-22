@@ -1,6 +1,6 @@
 using Microsoft.Azure.Documents;
 using Microsoft.Azure.WebJobs;
-using Microsoft.Extensions.Logging;
+using Microsoft.Extensions.Logging/
 using Microsoft.Azure.Documents.Client;
 using System.Linq;
 using System.Threading.Tasks;
