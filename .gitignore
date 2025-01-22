@@ -1,0 +1,8 @@
+# Configuração do Azure Functions
+local.settings.json
+
+# Dependências de pacotes e pastas temporárias
+node_modules/
+.vscode/
+.idea/
+.env
